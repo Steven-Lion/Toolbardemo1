@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolbarDemo</string>
+    <string name="title">家庭安防系统</string>
+    <string name="subTitle">烟雾警报系统</string>
+</resources>
